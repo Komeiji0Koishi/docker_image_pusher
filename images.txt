@@ -8,7 +8,7 @@ alpine
 sapmachine
 1panel/openresty
 alisaqaq/mcsmanager-web
-firezmc/dosgame-web-docker
+firezmc/dosgame-web-docker:v3.9.6
 alisaqaq/mcsmanager-daemon
 p3terx/aria2-pro
 python
